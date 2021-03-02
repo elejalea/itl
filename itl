@@ -443,7 +443,7 @@ fetʼɬfetʼɬ	fetʼɬfetʼɬ	N;NOM;SG
 fevaŋ	fevaŋ	N;NOM;SG
 fi	kfiknen	V.CVB;NFIN
 fi	kfiqzuknen	V.CVB;NFIN;IPFV
-fi	qfikes	V.CVB;NFIN;2SG.SBJ.IMP
+fi	qfikes	V;FIN;IMP;SG;2
 fiɬ	fiɬatezen	V;FIN;IND;PRS;SG;3;ITER
 fiɬ	fiɬatkil’χ	V.MSDR;FH;NFIN;ITER
 fiɬ	fiɬatkilaˀn	V.MSDR;FH;NFIN;PL;ITER
@@ -558,7 +558,7 @@ iɬaˀɬ	iɬaˀɬki	V.CVB;NFIN
 iɬč	iɬčqzaxen	V;FIN;IND;SG;3;FUT;IPFV
 iɬč	kiɬčqzuknen	V.CVB;NFIN;IPFV
 iɬč	mәniɬčk	V.CVB;NFIN;IMP;PL;1
-iɬč	qʼiɬčkas	V.CVB;NFIN;2SG.SBJ.IMP
+iɬč	qʼiɬčkas	V;FIN;IMP;SG;2
 iɬč	xaniɬčk	V.CVB;NFIN;IMP;PL;1
 iɬč	xniɬčk	V.CVB;NFIN;IMP;PL;1
 iɬčku	miɬčkun	V;FIN;IND;PST;ARGNO3S;ARGAB3S
@@ -1072,7 +1072,7 @@ lal	qlalesč	V;FIN;IMP;SG;2
 ɬale	ɬaleskenan	V;FIN;IND;PRS;ARGNO3S;ARGBE3S
 ɬale	ɬaletezen	V;FIN;IND;PRS;SG;3;ITER
 ɬale	mɬalesok	V;FIN;IMP;SG;1;ACTY
-ɬale	qʼɬalekas	V.CVB;NFIN;2SG.SBJ.IMP
+ɬale	qʼɬalekas	V;FIN;IMP;SG;2
 ɬale	tɬaleqzokičen	V;FIN;IND;SG;1;PST;IPFV
 ɬale	tɬalezoqzaɬk	V;FIN;IND;PL;1;FUT;IPFV;ACTY
 lalpsno	lalpsnoˀnk	N;LOC;PL
@@ -1118,7 +1118,7 @@ le	kʼleknen	V.CVB;NFIN
 le	lesč	V;FIN;IND;PRS;SG;3
 le	levin	V;FIN;IND;PST;SG;3
 le	lezven	V;FIN;IND;PRS;SG;3
-le	qʼlekas	V.CVB;NFIN;2SG.SBJ.IMP
+le	qʼlekas	V;FIN;IMP;SG;2
 le	qlexč	V;FIN;IMP;SG;2
 le	qʼlexč	V;FIN;IMP;SG;2
 le	tkʼlek	V;FIN;COND;SG;1
@@ -1431,7 +1431,7 @@ nu	nuqzusčen	V;FIN;IND;SG;3;PRS;IPFV
 nu	nuvaɬkaq	V.CVB;NFIN;NEG;OPT
 nu	nuvasč	V;FIN;IND;PRS;SG;3
 nu	ønuč	V;FIN;IND;PST;SG;3
-nu	qʼnukes	V.CVB;NFIN;2SG.SBJ.IMP
+nu	qʼnukes	V;FIN;IMP;SG;2
 nu	qʼnussx	V;FIN;IMP;PL;2
 nu	qʼnusxč	V;FIN;IMP;SG;2
 nu	qʼnuxč	V;FIN;IMP;SG;2
@@ -1487,7 +1487,7 @@ nәnsxu	nәnsxuzen	V;FIN;IND;PRS;SG;3
 ŋikɬ	ŋikɬki	V.CVB;NFIN
 ŋikɬ	ŋikɬkinkin	V.CVB;NFIN;NEG
 ŋikɬ	øŋikɬqzal	V;FIN;IND;FUT;SG;3;IPFV
-ŋikɬ	qŋikɬkas	V.CVB;NFIN;2SG.SBJ.IMP
+ŋikɬ	qŋikɬkas	V;FIN;IMP;SG;2
 ŋiks	mŋiksk	V;FIN;IMP;PL;1
 ŋiks	qŋiksxč	V;FIN;IMP;SG;2
 ŋiksi	kŋiksiknen	V.CVB;NFIN
@@ -1974,7 +1974,7 @@ spəl	spəlqsuven	V;FIN;IND;PST;SG;3;IPFV
 spәlkʼa	tspәlkʼazvek	V;FIN;IND;PST;SG;1;ACTY
 spәlkʼa	tspәlkʼazvelask	V;FIN;OPT;PRS;SG;1;ACTY;IPFV
 spәlkʼe	mspәlkʼezvekečan	V;FIN;IMP;SG;1;ACTY
-stal	qstalkas	V.CVB;NFIN;2SG.SBJ.IMP
+stal	qstalkas	V;FIN;IMP;SG;2
 staroj	staroj	ADJ;SG
 stil	kstilˀin	V.CVB;NFIN
 stil	kstilqzoˀan	V.CVB;NFIN;IPFV
